@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on e-commerce project
 - 📫 You can reach me through linkedin 
 https://www.linkedin.com/in/pranjal-vaish-726184228/
-or instagram @pranjal_2237
 
 
 <!---
