@@ -12,11 +12,11 @@
 - 📫 How to reach me **pranjalvaish11122001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://www.linkedin.com/in/pranjal-vaish-726184228">
   <img align="left" alt="Twitter" width="30px" src="https://user-images.githubusercontent.com/95493355/210089546-7cefb906-7c5f-4677-b37d-6020b902f8dc.png" />
 </a>
-</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
